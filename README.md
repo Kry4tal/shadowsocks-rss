@@ -2,19 +2,12 @@
 
 SSR全称是什么？
 
-正确为ShadowsocksR，有人称之为Shadowsocks-rss是错误的，rss是真正简单的整合(Really Simple Syndication)的缩写
+正确为ShadowsocksR 
+本地址是破娃Rss地址Fork
 
 本项目并不是SSR的整合 而是 SSR备份的整合
 
 原版整合https://github.com/shadowsocksr-backup/shadowsocks-rss
-
-#### 备份组织
-
- http://github.com/shadowsocksr-rm
- 
- http://github.com/shadowsocksrr
-
- http://github.com/shadowsocksr-backup
 
 由建立时间前后排序
  
@@ -40,7 +33,6 @@ SSR C# 4.7.0  [download](https://github.com/esdeathlove/panel-download/raw/maste
 <h1></h1>
 <b>pac无法更新?</b>  因为breakwa11的breakwa11.github.io项目删除 导致pac功能无法更新
 
-修复方法 https://t.me/ssr_backup/35 (请先登录tg客户端)
 
 以下提供两份修复客户端  酌情考虑使用
 
@@ -50,7 +42,7 @@ SSR C# 4.7.0  [download](https://github.com/esdeathlove/panel-download/raw/maste
 
 **感谢以下网友提供历史客户端备份**
 
-```Alen Gali``` ```bowlkk kk```	
+```Toyo Doubi```
 
 ### other
 
@@ -58,7 +50,3 @@ SSR C# 4.7.0  [download](https://github.com/esdeathlove/panel-download/raw/maste
 <h1></h1>
 
 ### other backup project
-
-**内容有错误 或者有问题**
->**请联系tg https://t.me/Spamuser**<br>
-**或者邮件至 ssr.project.backup@gmail.com**
