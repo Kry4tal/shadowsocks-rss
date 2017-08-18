@@ -15,7 +15,7 @@ SSR全称是什么？
 可以用本账户的fork
 
 **其他备份**
-pubkey  https://github.com/Ssrbackup/pubkey
+pubkey  https://github.com/kry4tal/pubkey
 
 #### wiki备份
 https://github.com/Ssrbackup/shadowsocks-rss/wiki  (已修正链接)
