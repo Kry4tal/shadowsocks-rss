@@ -1,4 +1,4 @@
-<h1>ShadowsocksR project backup</h1>
+<h1>ShadowsocksR 备份工程</h1>
 
 SSR全称是什么？
 
@@ -7,7 +7,7 @@ SSR全称是什么？
 
 本项目并不是SSR的整合 而是 SSR备份的整合
 
-原版整合https://github.com/shadowsocksr-backup/shadowsocks-rss
+原版整合https://github.com/kry4tal/shadowsocks-rss
 
 由建立时间前后排序
  
@@ -36,9 +36,9 @@ SSR C# 4.7.0  [download](https://github.com/esdeathlove/panel-download/raw/maste
 
 以下提供两份修复客户端  酌情考虑使用
 
-- [download](https://raw.githubusercontent.com/Ssrbackup/shadowsocks-rss/master/Revision/ShadowsocksR.zip) (来自tg @spamuser version4.7)
+- [download](https://raw.githubusercontent.com/Ssrbackup/shadowsocks-rss/master/Revision/ShadowsocksR.zip) (version4.7)
 
-- [download](https://raw.githubusercontent.com/Ssrbackup/shadowsocks-rss/master/Revision/shadowsocksR.zip) (来自tg @hinext version4.7)
+- [download](https://raw.githubusercontent.com/Ssrbackup/shadowsocks-rss/master/Revision/shadowsocksR.zip) (version4.7)
 
 **感谢以下网友提供历史客户端备份**
 
